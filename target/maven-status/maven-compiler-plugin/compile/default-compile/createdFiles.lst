@@ -1,0 +1,7 @@
+resthw/repo/OrderRepository.class
+resthw/services/OrderService.class
+resthw/services/OrderServiceDefault.class
+resthw/model/Order.class
+resthw/restresources/OrderResource.class
+resthw/model/Product.class
+resthw/binder/MyAppBinder.class
