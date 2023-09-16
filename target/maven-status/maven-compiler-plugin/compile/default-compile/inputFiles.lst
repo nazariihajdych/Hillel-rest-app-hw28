@@ -1,7 +1,0 @@
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/model/Order.java
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/restresources/OrderResource.java
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/binder/MyAppBinder.java
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/services/OrderServiceDefault.java
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/model/Product.java
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/services/OrderService.java
-/Users/nazar/IdeaProjects/hillel-rest-app/src/main/java/resthw/repo/OrderRepository.java
